@@ -1,0 +1,16 @@
+SELECT *
+FROM table_name
+
+SELECT column_name_1, column_name_2
+FROM table_name;
+  
+SELECT employee_id, first_name, title
+FROM employee;
+  
+ 
+SELECT * 
+From employee;
+
+    
+    
+  
